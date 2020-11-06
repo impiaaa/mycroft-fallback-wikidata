@@ -1,19 +1,21 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/barcode.svg" card_color="#990000" width="50" height="50" style="vertical-align:bottom"/> Wikidata
-Use wikidata to answer questions
+Use Wikidata to answer factual questions
 
 ## About
-Query wikidata using nlquery
+Use [NLQuery](https://github.com/ayoungprogrammer/nlquery) to query Wikidata for facts from a Mycroft device. This skill is used as a fallback if no other Skills can handle the _Intent_.
 
 ## Examples
-* "How tall is mount everest?"
-* "When was obama born?"
-* "Which countries have a population over 1000000000?"
+* "How tall is Mount Everest?"
+* "When was Obama born?"
 
 ## Credits
-Spencer Alves @impiaaa
+Spencer Alves (@impiaaa)
 
 ## Category
 **Information**
 
 ## Tags
-
+#fallback
+#query
+#general-knowledge
+#information
